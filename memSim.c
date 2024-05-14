@@ -5,7 +5,6 @@
 #include "PageTable.h"
 #include "PhysicalMemory.h"
 #include "BackingStore.h"
-#include "utils.h"
 
 #define DEFAULT_FRAMES 256
 #define DEFAULT_PRA "fifo"
